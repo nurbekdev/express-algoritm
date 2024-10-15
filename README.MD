@@ -1,6 +1,6 @@
 # Express Algoritm
 
-![Express Algoritm](Thumbnail_JK75iA5.webp)
+![Express Algoritm](42uz.webp)
 
 Ushbu GitHub repositoriyasida **Express Algoritm** kursidagi masalalar va kodlarimni joylab boraman. Kurs algoritmlar bo'yicha bilimlarni mustahkamlash va masalalarni samarali yechishga qaratilgan.
 
